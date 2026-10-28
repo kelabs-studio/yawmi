@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>يَومي</title>
+  <style>@font-face{font-family:'Zain Rounded mob';src:url('assets/Zain-Rounded-mob.ttf') format('truetype');font-weight:100 900;font-style:normal}</style>
+  <rect width="512" height="512" rx="112" fill="#716f9f"/>
+  <text x="256" y="310" text-anchor="middle" direction="rtl" unicode-bidi="plaintext"
+        font-family="Zain Rounded mob, sans-serif"
+        font-size="136" font-weight="700" fill="#fffefa">يَومي</text>
+</svg>
