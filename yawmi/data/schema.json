@@ -1,0 +1,22 @@
+{
+  "format": "yawm-project-backup",
+  "version": 1,
+  "storagePrefix": "wird_",
+  "description": "Backup export/import format. Values are JSON-encoded localStorage records.",
+  "records": {
+    "wird_tasks": "المهام ومواعيدها وحالات الإنجاز",
+    "wird_courses": "الروابط والكورسات ومصادر التعلم",
+    "wird_goals": "الأهداف والتقدم",
+    "wird_notes": "الملاحظات",
+    "wird_routineProfile": "الروتين الأسبوعي",
+    "wird_routineOverrides": "تعديلات الروتين ليوم محدد",
+    "wird_prayers": "سجلات الصلاة",
+    "wird_faithChecks": "العبادات اليومية",
+    "wird_quran": "إعدادات ورد القرآن وحفظ الآيات",
+    "wird_dhikr": "تسجيل الأذكار",
+    "wird_sleepLogs": "سجل النوم",
+    "wird_tipState": "اقتراحات اكتشف وحالة إنجازها",
+    "wird_freeDailyMinutes": "حد وقت المهام اليومي"
+  },
+  "privacy": "Exported backup may contain personal notes and worship records. Keep it private."
+}
